@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 92874d2b008ec974084d2d06dac07ca7, type: 3}
+  m_Name: Street start
+  m_EditorClassIdentifier: 
+  buildingName: Inicio
+  prefab: {fileID: 3004179629463804272, guid: ed9fa25cb21fedf4ea33bda13e59468f, type: 3}
+  visual: {fileID: 4367914789258030243, guid: 21f850b8dbfdd924ab0697969e6888e7, type: 3}
+  width: 1
+  height: 1
+  icon: {fileID: 0}
